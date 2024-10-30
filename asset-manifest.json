@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lista-de-tarefas/static/css/main.7d120ffd.css",
-    "main.js": "/lista-de-tarefas/static/js/main.cb158d41.js",
-    "static/js/453.eb8a416c.chunk.js": "/lista-de-tarefas/static/js/453.eb8a416c.chunk.js",
-    "static/media/TAN Tangkiwood (1).png": "/lista-de-tarefas/static/media/TAN Tangkiwood (1).b7f6d7e36bfd72d0e1d5.png",
-    "index.html": "/lista-de-tarefas/index.html",
-    "main.7d120ffd.css.map": "/lista-de-tarefas/static/css/main.7d120ffd.css.map",
-    "main.cb158d41.js.map": "/lista-de-tarefas/static/js/main.cb158d41.js.map",
-    "453.eb8a416c.chunk.js.map": "/lista-de-tarefas/static/js/453.eb8a416c.chunk.js.map"
+    "main.css": "/lista-de-tarefa/static/css/main.5af0a1fa.css",
+    "main.js": "/lista-de-tarefa/static/js/main.ce0141c2.js",
+    "static/js/453.eb8a416c.chunk.js": "/lista-de-tarefa/static/js/453.eb8a416c.chunk.js",
+    "static/media/TAN Tangkiwood (1).png": "/lista-de-tarefa/static/media/TAN Tangkiwood (1).b7f6d7e36bfd72d0e1d5.png",
+    "index.html": "/lista-de-tarefa/index.html",
+    "main.5af0a1fa.css.map": "/lista-de-tarefa/static/css/main.5af0a1fa.css.map",
+    "main.ce0141c2.js.map": "/lista-de-tarefa/static/js/main.ce0141c2.js.map",
+    "453.eb8a416c.chunk.js.map": "/lista-de-tarefa/static/js/453.eb8a416c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d120ffd.css",
-    "static/js/main.cb158d41.js"
+    "static/css/main.5af0a1fa.css",
+    "static/js/main.ce0141c2.js"
   ]
 }
